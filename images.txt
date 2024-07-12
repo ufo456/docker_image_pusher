@@ -14,3 +14,4 @@
 #kahosan/home-page
 #whyour/qinglong
 b3log/siyuan
+cwq1913/lama-cleaner:cpu-1.2.5
