@@ -13,5 +13,7 @@
 #hslr/sun-panel
 #kahosan/home-page
 #whyour/qinglong
-b3log/siyuan
-cwq1913/lama-cleaner:cpu-1.2.5
+#b3log/siyuan
+#cwq1913/lama-cleaner:cpu-1.2.5
+ghcr.io/immich-app/immich-server
+ghcr.io/immich-app/immich-machine-learning
