@@ -5,8 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-frooodle/s-pdf
-#mpepping/cyberchef
+#frooodle/s-pdf
+mpepping/cyberchef
 #elestio/memos
 #wordpress
 #louislam/dockge
