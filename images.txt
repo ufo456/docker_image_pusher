@@ -5,15 +5,15 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-#frooodle/s-pdf
-#mpepping/cyberchef
+frooodle/s-pdf
+mpepping/cyberchef
 #elestio/memos
 #wordpress
 #louislam/dockge
-#hslr/sun-panel
+hslr/sun-panel
 #kahosan/home-page
 #whyour/qinglong
-#b3log/siyuan
+b3log/siyuan
 #cwq1913/lama-cleaner:cpu-1.2.5
 #ghcr.io/immich-app/immich-server:v1.111.0
 #ghcr.io/immich-app/immich-machine-learning:v1.111.0
