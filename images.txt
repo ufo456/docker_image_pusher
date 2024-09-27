@@ -20,8 +20,8 @@
 #mysql
 #php
 #nginx
-0nlylty/dockercopilot:UGREEN
+#0nlylty/dockercopilot:UGREEN
 #frooodle/s-pdf
-#mpepping/cyberchef
+mpepping/cyberchef
 #hslr/sun-panel
 #b3log/siyuan
