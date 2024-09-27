@@ -22,6 +22,11 @@
 #nginx
 #0nlylty/dockercopilot:UGREEN
 #frooodle/s-pdf
-mpepping/cyberchef
+#mpepping/cyberchef
 #hslr/sun-panel
 #b3log/siyuan
+
+
+vaultwarden/server
+gdy666/lucky
+rustdesk/rustdesk-server
