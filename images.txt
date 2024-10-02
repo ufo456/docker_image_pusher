@@ -24,9 +24,9 @@
 #frooodle/s-pdf
 #mpepping/cyberchef
 #hslr/sun-panel
-#b3log/siyuan
+b3log/siyuan
 
 
-vaultwarden/server
-gdy666/lucky
-rustdesk/rustdesk-server
+#vaultwarden/server
+#gdy666/lucky
+#rustdesk/rustdesk-server
