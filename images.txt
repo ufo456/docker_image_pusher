@@ -24,9 +24,9 @@
 #frooodle/s-pdf
 #mpepping/cyberchef
 #hslr/sun-panel
-b3log/siyuan
+#b3log/siyuan
 
-
+linuxserver/qbittorrent
 #vaultwarden/server
 #gdy666/lucky
 #rustdesk/rustdesk-server
