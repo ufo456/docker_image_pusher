@@ -33,4 +33,5 @@
 
 
 
-qdtoday/qd:latest
+#qdtoday/qd:latest
+redis:alpine
