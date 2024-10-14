@@ -34,4 +34,6 @@
 
 
 #qdtoday/qd:latest
-redis:alpine
+#redis:alpine
+vaultwarden/server:latest
+
