@@ -26,7 +26,11 @@
 #hslr/sun-panel
 #b3log/siyuan
 
-linuxserver/qbittorrent
+#linuxserver/qbittorrent
 #vaultwarden/server
 #gdy666/lucky
 #rustdesk/rustdesk-server
+
+
+
+qdtoday/qd:latest
