@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-#elestio/memos
+elestio/memos
 #wordpress
 #louislam/dockge
 
@@ -37,7 +37,7 @@
 #redis:alpine
 #vaultwarden/server:latest
 
-lanol/filecodebox:beta
+#lanol/filecodebox:beta
 
 
 
