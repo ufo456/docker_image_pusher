@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-elestio/memos
+#elestio/memos
 #wordpress
 #louislam/dockge
 
@@ -20,7 +20,7 @@ elestio/memos
 #mysql
 #php
 #nginx
-#0nlylty/dockercopilot:UGREEN
+0nlylty/dockercopilot:UGREEN
 #frooodle/s-pdf
 #mpepping/cyberchef
 #hslr/sun-panel
