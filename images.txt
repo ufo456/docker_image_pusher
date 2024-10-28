@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-elestio/memos
+#elestio/memos
 #wordpress
 #louislam/dockge
 
@@ -38,6 +38,6 @@ elestio/memos
 #vaultwarden/server:latest
 
 #lanol/filecodebox:beta
-tenable/nessus:latest
+tenable/nessus:latest-oracle
 
 
