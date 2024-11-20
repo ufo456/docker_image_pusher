@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-#elestio/memos
+elestio/memos
 #wordpress
 #louislam/dockge
 
@@ -21,10 +21,10 @@
 #php
 #nginx
 #0nlylty/dockercopilot:UGREEN
-#frooodle/s-pdf
+frooodle/s-pdf
 #mpepping/cyberchef
 #hslr/sun-panel
-#b3log/siyuan
+b3log/siyuan
 
 #linuxserver/qbittorrent
 #vaultwarden/server
@@ -38,6 +38,6 @@
 #vaultwarden/server:latest
 
 #lanol/filecodebox:beta
-tenable/nessus:latest-oracle
+#tenable/nessus:latest-oracle
 
 
