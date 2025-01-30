@@ -7,10 +7,10 @@
 
 
 elestio/memos
-#wordpress
+wordpress
 #louislam/dockge
 
-#kahosan/home-page
+kahosan/home-page
 #whyour/qinglong
 
 #cwq1913/lama-cleaner:cpu-1.2.5
@@ -22,11 +22,11 @@ elestio/memos
 #nginx
 #0nlylty/dockercopilot:UGREEN
 frooodle/s-pdf
-#mpepping/cyberchef
-#hslr/sun-panel
+mpepping/cyberchef
+hslr/sun-panel
 b3log/siyuan
 
-#linuxserver/qbittorrent
+linuxserver/qbittorrent
 #vaultwarden/server
 #gdy666/lucky
 #rustdesk/rustdesk-server
