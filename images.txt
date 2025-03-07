@@ -35,7 +35,7 @@ linuxserver/qbittorrent
 
 #qdtoday/qd:latest
 #redis:alpine
-#vaultwarden/server:latest
+vaultwarden/server:latest
 
 #lanol/filecodebox:beta
 #tenable/nessus:latest-oracle
