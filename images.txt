@@ -21,8 +21,8 @@
 #php
 #nginx
 #0nlylty/dockercopilot:UGREEN
-frooodle/s-pdf
-#mpepping/cyberchef
+#frooodle/s-pdf
+mpepping/cyberchef
 #hslr/sun-panel
 #b3log/siyuan
 
